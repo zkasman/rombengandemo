@@ -1,7 +1,7 @@
 @import "bootstrap";
 
 body {
-	background: #FFFFFF;
+	background: #EEEEEE;
 	color: #333333;
 	font-family: 'Lucida sans', 'Trebuchet MS', tahoma, arial;
 ;
@@ -9,21 +9,21 @@ body {
 }
 
 .navbar-default {
-	background-color: #EFEFEB;
+	background-color: #000000;
 }
 
 .navbar-default .navbar-brand {
-	font-family: Museo-Sans-Rounded ,guardian-egyptt , georgia, serif;
-	font-weight: 400;
-	color: #d5641c;
-	font-size: 30px;
+	font-family: trebuchet , arial, museo-sans-rounded, Mistral;
+	font-weight: 300;
+	color: #FFFFFF;
+	font-size: 35px;
 }
 
 .navbar-default .navbar-nav > li > a {
 	font-family: 'Lucida sans', 'Trebuchet MS', tahoma, arial;
 	font-size: 14px;
-	font-weight: bold;
-	color: #0192B5;
+	font-weight: normal;
+	color: #FFFFFF;
 }
 
 .center {

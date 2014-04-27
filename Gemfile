@@ -28,6 +28,10 @@ gem 'bootstrap-sass', '~> 3.1.1'
 #Adding Paperclips
 #gem "paperclip", "~> 4.1"
 gem 'paperclip', github: 'thoughtbot/paperclip' 
+gem "paperclip-dropbox", ">= 1.1.7"
+
+#Adding Figaro
+gem 'figaro'
 
 #Adding Flat UI
 #gem "flat-ui-rails"
